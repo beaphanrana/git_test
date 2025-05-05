@@ -1,2 +1,2 @@
 `hello world, i am learning how to do the Odin Project'
-`this is the second line`
+`this is the second line and my second try hehe`
